@@ -58,6 +58,4 @@ Ngoài ra thì trong thời gian gần đây đã xuất hiện thêm 4 mẫu de
 
     https://en.wikipedia.org/wiki/Software_design_pattern
     https://www.oreilly.com/ideas/5-reasons-to-finally-learn-design-patterns
-    https://toidicodedao.com/2016/03/01/nhap-mon-design-pattern-phong-cach-kiem-hiep/
-    https://toidicode.com/designe-patterns-la-gi-130.html
 
