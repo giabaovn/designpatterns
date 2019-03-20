@@ -1,6 +1,6 @@
 # Design Patterns
 
-## Creational Pattern ( nhóm khởi tạo):
+## Creational Patterns (nhóm khởi tạo):
 
 Nhóm này sẽ giúp bạn rất nhiều trong việc khởi tạo đối tượng, mà bạn khó có thể nhận ra (nó sẽ không dùng từ khóa new như bình thường). Nhóm này gồm 9 mẫu design là:
 
@@ -14,7 +14,7 @@ Nhóm này sẽ giúp bạn rất nhiều trong việc khởi tạo đối tư�
     Singleton
     Static Factory
 
-## Structural (nhóm cấu trúc):
+## Structural Patterns (nhóm cấu trúc):
 
 Nhóm này sẽ giúp chúng ta thiết lập, định nghĩa quan hệ giữa các đối tượng. Nhóm này gồm có 11 mẫu design là:
 
@@ -30,7 +30,7 @@ Nhóm này sẽ giúp chúng ta thiết lập, định nghĩa quan hệ giữa c
     Registry
     Proxy
 
-## Behavioral patterns (nhóm ứng xử):
+## Behavioral Patterns (nhóm ứng xử):
 
 Nhóm này sẽ tập trung thực hiện các hành vi của đối tượng. Gồm 12 mẫu design là:
 
@@ -54,7 +54,7 @@ Ngoài ra thì trong thời gian gần đây đã xuất hiện thêm 4 mẫu de
     Repository
     Entity-Attribute-Value (EAV)
 
-## Tham khảo
+## References
 
     https://en.wikipedia.org/wiki/Software_design_pattern
     https://www.oreilly.com/ideas/5-reasons-to-finally-learn-design-patterns
